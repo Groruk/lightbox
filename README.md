@@ -1,12 +1,14 @@
-<center>
+<div align="center">
     <h1>Lightbox</h1>
-    <b>Simple | Minimalistic</b>
+    <strong>Simple | Minimalistic</strong>
     <p>A small lightbox component written in <code>42 LOC<sup><i>lines of code</i></sup></code></p>
-    _-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-
+    <p>_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-</p>
     <h3>
         <a href="https://lightbox.cluster.services">Demo</a>
     </h3>
-</center>
+</div>
+
+---
 
 ## Usage
 
@@ -40,8 +42,8 @@ If you want to locally build, extend or modify this project your will need the f
 ### Building
 
 To build the project use this command: <br/>
-(If you add new files to the project make sure to include them in the build command or in the entry point `src/js/lightbox.js`)
-```sh
+(If you add new files to the project make sure to include them in the build command or the entry point `src/js/lightbox.js`)
+```bash
 npm run-script build
 ```
 
@@ -51,9 +53,11 @@ npm run-script build
 
 Please read [CONTRIBUTING](CONTRIBUTING) for details on our code of conduct, and the process for submitting pull requests to us.
 
+
 ### Versioning
 
 We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/Groruk/lightbox/tags).
+
 
 ### License
 
