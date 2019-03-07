@@ -16,8 +16,8 @@
    (You can use GitHub as a CDN or just host them locally in your project)
 
 ```HTML
-    <link rel="stylesheet" href="TODO">
-    <script src="TODO"></script>
+    <link rel="stylesheet" href="https://raw.githubusercontent.com/Groruk/lightbox/v1.0.0/dist/lightbox.min.css">
+    <script src="https://raw.githubusercontent.com/Groruk/lightbox/v1.0.0/dist/lightbox.min.js"></script>
 ```
 
 **2.** Add `lightbox` class to your img tags
