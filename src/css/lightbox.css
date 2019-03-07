@@ -1,0 +1,17 @@
+.lightbox-active {
+    height: 90vh;
+    width: auto;
+    z-index: 1337;
+    cursor: default;
+}
+
+.lightbox-overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+    z-index: 1000;
+    background-color: rgba(0, 0, 0, .65);
+    cursor: zoom-out;
+}
