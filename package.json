@@ -1,0 +1,20 @@
+{
+  "name": "lightbox",
+  "version": "1.0.0",
+  "description": "Simple and Minimalistic Lightbox component",
+  "main": "src/js/lightbox.js",
+  "scripts": {
+    "dev": "parcel src/js/lightbox.js",
+    "build": "parcel build src/js/lightbox.js -d dist --out-file lightbox.min.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Groruk/lightbox.git"
+  },
+  "author": "Marvin Lukaschek <Groruk@googlemail.com>",
+  "license": "AGPL-3.0",
+  "bugs": {
+    "url": "https://github.com/Groruk/lightbox/issues"
+  },
+  "homepage": "https://github.com/Groruk/lightbox#readme"
+}
