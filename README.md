@@ -3,9 +3,6 @@
     <strong>Simple | Minimalistic</strong>
     <p>A small lightbox component written in <code>42 LOC<sup><i>lines of code</i></sup></code></p>
     <p>_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-</p>
-    <h3>
-        <a href="https://lightbox.cluster.services">Demo</a>
-    </h3>
 </div>
 
 ---
